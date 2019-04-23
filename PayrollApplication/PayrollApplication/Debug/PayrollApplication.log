@@ -1,0 +1,2 @@
+﻿  MyForm.cpp
+C:\Users\flynno\source\repos\PayrollApplication\PayrollApplication\MyForm.h(357): error C3867: 'System::Windows::Forms::Control::Show': non-standard syntax; use '&' to create a pointer to member
